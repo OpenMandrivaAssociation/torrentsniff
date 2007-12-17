@@ -11,7 +11,6 @@ Release: %{release}
 Source0: http://www.highprogrammer.com/alan/perl/%{name}-%{version}.tar.bz2
 License: MIT
 Group: Networking/File transfer
-BuildRoot: %{_tmppath}/%{name}-buildroot
 URL: http://www.highprogrammer.com/alan/perl/torrentsniff.html
 BuildArch: noarch
 
